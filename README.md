@@ -1,4 +1,4 @@
-# Hi, I'm Ljuben! 👋 🐍
+# Hi ! 👋 🐍
 
 I am currently in the middle of a **career retraining as a Software Developer**. I’m traing to follow my passion for logic, problem-solving, and building things from scratch with code.
 
@@ -10,14 +10,12 @@ I am currently in the middle of a **career retraining as a Software Developer**.
 - **Goal:** To become a solid Backend Developer and write clean, readable code.
 
 ### The "Beyond Code" Skills I'm Learning
-*I'm not just learning to code; I'm learning to build real software:*
 - **Docker:** Learning how to "containerize" my Python apps so they run everywhere.
 - **SQL & Databases:** Understanding how to talk to PostgreSQL and SQLite (because data needs a home).
 - **Git & Version Control:** Learning how to collaborate and keep my code history safe.
 ---
 
-### A bit about me...
-When I'm not debugging or staring at a terminal, I'm usually looking for a new challenge to tackle.
+***When I'm not debugging or staring at a terminal, I'm usually looking for a new challenge to tackle.
 
 ---
 
