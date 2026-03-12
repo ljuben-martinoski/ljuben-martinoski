@@ -4,14 +4,14 @@ I am currently in the middle of a **career retraining as a Software Developer**.
 
 ### Right now im =>
 - **Learning:** Deep-diving into Python basics, data structures, and simple scripts.
--  **Python Frameworks:** Currently building with **Django** (for big ideas) and **FastAPI** (for high-speed APIs).
+- **Python Frameworks:** Currently building with **Django** (for big ideas) and **FastAPI** (for high-speed APIs).
 - **Linux Exploration:** Learning the ropes of **Ubuntu** for my daily workflow and **Kali Linux** to understand the basics of network security. 
 - **Building:** Small projects to practice my logic (check them out in my repos!).
 - **Goal:** To become a solid Backend Developer and write clean, readable code.
 
 ###Skills I'm also Learning =>
 - **Docker:** Learning how to "containerize" my Python apps so they run everywhere.
--  **SQL & Databases:** Understanding how to talk to PostgreSQL and SQLite (because data needs a home).
+- **SQL & Databases:** Understanding how to talk to PostgreSQL and SQLite (because data needs a home).
 - **Git & Version Control:** Learning how to collaborate and keep my code history safe.
 ---
 
