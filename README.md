@@ -9,7 +9,7 @@ I am currently in the middle of a **career retraining as a Software Developer**.
 - **Building:** Small projects to practice my logic (check them out in my repos!).
 - **Goal:** To become a solid Backend Developer and write clean, readable code.
 
-###Skills I'm also Learning =>
+### Skills I'm also Learning =>
 - **Docker:** Learning how to "containerize" my Python apps so they run everywhere.
 - **SQL & Databases:** Understanding how to talk to PostgreSQL and SQLite (because data needs a home).
 - **Git & Version Control:** Learning how to collaborate and keep my code history safe.
