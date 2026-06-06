@@ -75,8 +75,8 @@ I'm currently finishing my retraining as a **Junior Software Developer** — wit
 **Cybersecurity**
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ethical Hacking-TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![BugCrowd](https://img.shields.io/badge/BugCrowd-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Ethical Hacking-TryHackMe](https://img.shields.io/badge/EthicalHacking-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![BugCrowd](https://img.shields.io/badge/BugCrowd-6DB33F?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 **ERP**
 
