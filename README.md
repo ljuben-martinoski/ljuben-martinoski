@@ -10,7 +10,7 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0f3460?style=flat-square&logo=firefox&logoColor=white)](https://ljuben-martinoski-dev-portfolio.github.io)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-ljuben.martinoski@outlook.de-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:ljuben.martinoski@outlook.de)
+
 
 </div>
 
