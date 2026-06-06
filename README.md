@@ -102,6 +102,7 @@ I'm currently finishing my retraining as a **Junior Software Developer** — wit
 "I love solving problems, applying logic, and building things that actually work."
 </div>
 <div align="center">
-https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=110&section=footer
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0d1117&height=110&section=footer).
 
 </div>
