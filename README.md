@@ -99,7 +99,8 @@ I'm currently finishing my retraining as a **Junior Software Developer** — wit
 ---
 
 <div align="center">
-"I love solving problems, applying logic, and building things that actually work."
+"If you only knew the magnificence of the 3, 6 and 9, then you would have a key to the universe."
+  --Nikola Tesla--
 </div>
 <div align="center">
   
