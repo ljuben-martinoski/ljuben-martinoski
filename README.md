@@ -20,7 +20,7 @@
 
 I love solving problems, applying logic, and building cool things with code.
 
-I'm currently finishing my retraining as a **Junior Software Developer** — with a focus on backend development using Python, Django, and FastAPI. Every project I build is a chance to turn a real problem into a clean, working solution.
+I'm currently finishing my retraining as a **Junior Software Developer** — with a focus on backend development using Python, Django, Flas, RestAPI and FastAPI. Every project I build is a chance to turn a real problem into a clean, working solution.
 
 ---
 
