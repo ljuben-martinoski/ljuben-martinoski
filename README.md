@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Hi,%20I'm%20Ljuben%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fachinformatiker%20Anwendungsentwicklung%20%7C%20Python%20%7C%20Django%20%7C%20Cybersecurity&descAlignY=60&descSize=16&descColor=a78bfa)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Hi,%20I'm%20Ljuben%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Backend%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20FastAPI&descAlignY=60&descSize=15&descColor=a78bfa)
 
 </div>
 
@@ -10,7 +10,7 @@
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-0f3460?style=flat-square&logo=firefox&logoColor=white)](https://ljuben-martinoski-dev-portfolio.github.io)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ljuben-martinoski)
+[![Email](https://img.shields.io/badge/Email-ljuben.martinoski@outlook.de-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:ljuben.martinoski@outlook.de)
 
 </div>
 
@@ -18,34 +18,19 @@
 
 ### 👨‍💻 About Me
 
-Certified **Fachinformatiker für Anwendungsentwicklung (FIAE)** based in Erlangen, Germany.
+I love solving problems, applying logic, and building cool things with code.
 
-I made a deliberate career change into software development after working across dental technology, logistics, and hospitality in multiple countries. That background gives me a practical, user-focused perspective on building software — I care about what it actually solves, not just how it's built.
-
-Currently deepening my Python skills through **Harvard CS50P** and exploring **cybersecurity** alongside application development.
-
-```python
-ljuben = {
-    "location":   "Erlangen, Germany 🇩🇪",
-    "languages":  ["Python", "SQL", "JavaScript", "HTML/CSS"],
-    "frameworks": ["Django", "Bootstrap 5"],
-    "databases":  ["SQLite", "MySQL"],
-    "tools":      ["Git", "Linux", "VS Code", "Docker"],
-    "security":   ["Kali Linux", "TryHackMe"],
-    "spoken":     5,   # languages
-    "learning":   ["CS50P", "CompTIA Security+"],
-    "open_to":    ["Junior Dev roles", "Junior SOC Analyst", "AppSec"]
-}
-```
+I'm currently finishing my retraining as a **Junior Software Developer** — with a focus on backend development using Python, Django, and FastAPI. Every project I build is a chance to turn a real problem into a clean, working solution.
 
 ---
 
 ### ⚡ Quick Facts
 
-- 🎓 **IHK-certified** FIAE — Abschlussprojekt: Django-based machine service management system
-- 🔐 Passionate about **cybersecurity** alongside software development
-- 🌍 Multilingual — **5 languages** spoken across professional experience in multiple countries
-- 🔄 Career changer who understands real business problems from the inside
+- 🎓 **FIAE Retraining** — currently in progress *(finishing June 2026)*
+- 🏗️ **IHK Abschlussprojekt** — Django-based Machine Service Management System *(completed)*
+- 🏆 **SAP S/4HANA certified** — with distinction
+- 🔐 Passionate about **cybersecurity**: CS50 Harvard Cybersecurity Certificate *(in progress)*
+- 🌍 Multilingual — **5 languages** across professional experience in multiple countries
 - 📚 Currently working through **Harvard CS50P**
 
 ---
@@ -56,31 +41,44 @@ ljuben = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks & APIs**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Databases**
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+**Project Management**
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 **Cybersecurity**
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+**ERP**
+
+![SAP](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 ---
 
@@ -98,19 +96,41 @@ ljuben = {
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Projects
 
-**[Maschinen-Serviceverwaltungssystem](https://github.com/ljuben-martinoski)**
-> IHK Abschlussprojekt — A full machine service management system built with **Django**, **SQLite**, and **Bootstrap 5**.
-> Developed during internship at HILA-Automation GmbH, Erlangen. Features service tracking, machine records, and a clean admin interface.
+**[Maschinen-Serviceverwaltungssystem](https://github.com/ljuben-martinoski)** — *IHK Abschlussprojekt*
+> Django-based service ticket system for industrial machine management. 6-stage workflow with Ready-Gate validation, automated checklist generation, and a full Django Admin interface. 19/19 unit tests passing.
+> `Python` `Django` `SQLite` `Unit Testing` `SOLID`
 
-`Python` `Django` `SQLite` `Bootstrap 5` `HTML` `CSS`
+---
+
+**[LagerverwaltungsApp](https://github.com/ljuben-martinoski)** — *Team Contribution*
+> Backend contribution to a warehouse management system with driver check-in and real-time gate management. Implemented FastAPI endpoints, SQLAlchemy models, and server-side validation.
+> `Python` `FastAPI` `SQLAlchemy` `SQLite`
+
+---
+
+**[Versionskontroll-Workflow](https://github.com/ljuben-martinoski)**
+> Django web app as an interactive learning tool for professional Git practices, built with full SOLID architecture. Diagnosed and resolved a Python 3.14 / Django compatibility issue independently. 20/20 unit tests passing.
+> `Python 3.14` `Django 6.0.6` `Git` `SOLID` `SQLite` `Testing`
+
+---
+
+**[Enterprise Password Manager](https://github.com/ljuben-martinoski)**
+> Secure, local-first password manager using AES-256-CBC encryption via Fernet, PBKDF2-HMAC-SHA256 key derivation with 480,000 iterations, and standalone deployment via PyInstaller.
+> `Python` `Cryptography` `PyInstaller` `Security`
+
+---
+
+**[Learning Management System](https://github.com/ljuben-martinoski)**
+> Full-stack LMS with secure authentication, course management, progress tracking, and a React frontend backed by a Python Flask API.
+> `Python` `Flask` `React` `SQLite` `REST API`
 
 ---
 
 <div align="center">
 
-*"The best code solves a real problem — I've seen enough real problems to know the difference."*
+*"I love solving problems, applying logic, and building things that actually work."*
 
 </div>
 
