@@ -30,7 +30,7 @@ I'm currently finishing my retraining as a **Junior Software Developer** — wit
 - 🏗️ **IHK Abschlussprojekt** — Django-based Machine Service Management System *(completed)*
 - 🏆 **SAP S/4HANA certified** — with distinction
 - 🔐 Passionate about **cybersecurity**: CS50 Harvard Cybersecurity Certificate *(in progress)*
-- 🎓 Learning the **CS50 Harvarsd Web Programming with Python and JavaScript** *(in progrees)
+- 🎓 Learning the **CS50 Harvarsd Web Programming with Python and JavaScript** *(in progrees)*
 - 🌍 Multilingual — **5 languages** across professional experience in multiple countries
 - 📚 Currently working through **Harvard CS50P**
 
