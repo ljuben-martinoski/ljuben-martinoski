@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Hi,%20I'm%20Ljuben%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Backend%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Flask%20%7C%20&descAlignY=60&descSize=15&descColor=a78bfa)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Hi,%20I'm%20Ljuben%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Developer%20%7C%20Backend%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Flask%20%7C%20&%20%7C%20DevOpswithDocker%20%7C%20&descAlignY=60&descSize=15&descColor=a78bfa)
 
 </div>
 
@@ -20,7 +20,8 @@
 
 I love solving problems, applying logic, and building cool things with code.
 
-I'm currently finishing my retraining as a **Junior Software Developer** — with a focus on backend development using Python, Django, Flas, RestAPI and FastAPI. Every project I build is a chance to turn a real problem into a clean, working solution.
+I'm currently finished my retraining as a **Junior Software Developer** — with a focus on backend development using Python, Django and FlasK. In Progress of learning and building FastAPI and RestAPI.Right now inrolled in DevOps with Docker at the Helsinki University, so as the CS50’s Introduction to Cybersecurity at the Harvard University. In plan to start also the Secure AI/ML-Driven Software Development at the Linux Foundation. 
+Every project I build is a chance to turn a real problem into a clean, working solution.
 
 ---
 
