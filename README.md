@@ -20,7 +20,7 @@
 
 I love solving problems, applying logic, and building cool things with code.
 
-I'm currently finished my retraining as a **Junior Software Developer** — with a focus on backend development using Python, Django and FlasK. In Progress of learning and building FastAPI and RestAPI.Right now inrolled in DevOps with Docker at the Helsinki University, so as the CS50’s Introduction to Cybersecurity at the Harvard University. In plan to start also the Secure AI/ML-Driven Software Development at the Linux Foundation. 
+I have currently finished my retraining as a **Junior Software Developer** — with a focus on backend development using Python, Django and FlasK. In Progress of learning and building FastAPI and RestAPI.Right now inrolled in DevOps with Docker at the Helsinki University, so as the CS50’s Introduction to Cybersecurity at the Harvard University. In plan to start also the Secure AI/ML-Driven Software Development at the Linux Foundation. 
 Every project I build is a chance to turn a real problem into a clean, working solution.
 
 ---
