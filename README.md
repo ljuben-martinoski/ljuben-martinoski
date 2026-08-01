@@ -27,7 +27,7 @@ Every project I build is a chance to turn a real problem into a clean, working s
 
 ### ⚡ Quick Facts
 
-- 🎓 **FIAE Retraining** — currently in progress *(finishing June 2026)*
+- 🎓 **FIAE Retraining** — finished in June 2026*
 - 🏗️ **IHK Abschlussprojekt** — Django-based Machine Service Management System *(completed)*
 - 🏆 **SAP S/4HANA certified** — with distinction
 - 🔐 Passionate about **cybersecurity**: CS50 Harvard Cybersecurity Certificate *(in progress)*
