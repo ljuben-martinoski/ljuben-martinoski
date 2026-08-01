@@ -33,7 +33,7 @@ Every project I build is a chance to turn a real problem into a clean, working s
 - 🔐 Passionate about **cybersecurity**: CS50 Harvard Cybersecurity Certificate *(in progress)*
 - 🎓 Right now busy getting the **CS50 Harvarsd Web Programming with Python and JavaScript** Certificate *(in progrees)*
 - 🌍 Multilingual — **5 languages** across professional experience in multiple countries
-- 📚 Currently working through **Harvard CS50P**
+- 📚 Currently working through **Harvard CS50P** and Cybersecurity by the Helsinki University*
 
 ---
 
