@@ -99,12 +99,11 @@ deployed on Railway with a CI-enforced data-freshness gate.
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
 
-![Ljuben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljuben-martinoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Ljuben's GitHub Stats](https://github-readme-stats-seven-liard-48.vercel.app/api?username=ljuben-martinoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ljuben-martinoski&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-seven-liard-48.vercel.app/api/top-langs/?username=ljuben-martinoski&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ljuben-martinoski&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
