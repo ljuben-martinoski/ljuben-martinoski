@@ -35,7 +35,7 @@ Every project I build is a chance to turn a real problem into a clean, working s
 - 🌍 Multilingual — **5 languages** across professional experience in multiple countries
 - 📚 Currently working through **Harvard CS50P** and Cybersecurity by the Helsinki University*
 - You can also take a look at my API i build: 
-#### 🕐 RightsClock — consumer rights as an API
+#### 🕐 ****RightsClock — consumer rights as an API***
 Send it a purchase, get back the exact statutory **withdrawal** and
 **legal-guarantee** deadlines for Germany, Austria, and the Netherlands —
 each with the governing statute cited.
