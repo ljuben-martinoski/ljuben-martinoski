@@ -16,7 +16,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 ME, MYSELF AND I 
 
 I love solving problems, applying logic, and building cool things with code.
 
