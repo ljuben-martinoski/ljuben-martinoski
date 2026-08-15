@@ -105,7 +105,7 @@ deployed on Railway with a CI-enforced data-freshness gate.
 
 ![Top Languages](https://github-readme-stats-seven-liard-48.vercel.app/api/top-langs/?username=ljuben-martinoski&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ljuben-martinoski&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ljuben-martinoski&theme=tokyonight&hide_border=true&hide=tex)](https://git.io/streak-stats)
 
 </div>
 
