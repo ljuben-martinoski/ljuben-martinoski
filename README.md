@@ -103,7 +103,7 @@ deployed on Railway with a CI-enforced data-freshness gate.
 
 ![Ljuben's GitHub Stats](https://github-readme-stats-seven-liard-48.vercel.app/api?username=ljuben-martinoski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-seven-liard-48.vercel.app/api/top-langs/?username=ljuben-martinoski&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-seven-liard-48.vercel.app/api/top-langs/?username=ljuben-martinoski&layout=compact&theme=tokyonight&hide_border=true&hide=tex)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ljuben-martinoski&theme=tokyonight&hide_border=true&hide=tex)](https://git.io/streak-stats)
 
